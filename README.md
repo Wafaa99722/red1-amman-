@@ -12,9 +12,11 @@ Markdown is an easy way for styling your forms on the Github . it  differs from 
 *Basic writing and formatting syntax :
 it gives several rules in order to help student in formating his prose and code on Github using simple syntax . you can apply them in*:
 
-1.Headings
-2.Styling text
-3.Quoting text
+   1.Headings
+   
+   2.Styling text
+   
+   3.Quoting text
  
 
  
